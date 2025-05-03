@@ -1,10 +1,10 @@
 ### Howdy! 👋
 
-I'm **Kyle Seneker** and I'm currently working as an **Engineering Manager @ HashiCorp**. Earlier in my career, I worked as a full-stack engineer using Java, C#, Ruby, Python, and Go, and primarily focused on building infrastructure automation solutions for my previous employer. In 2017, I changed the direction of my career and moved into Engineering leadership and truly believe I have found what I enjoy to do - leading people and helping them to succeed and grow!
+I lead runtime infrastructure at HashiCorp—but this space is for the deeper stuff: the systems I break, rebuild, and reverse-engineer to actually understand what’s going on under the hood.
 
-In my spare time I enjoy coding in Go, Ruby, and Python, and have recently started diving into Assembly and related technologies with a goal of furthering my understanding of the underlying components of the technology we use every day.
+I’m into infrastructure at every layer—from global compute orchestration down to the instruction set. I’ve built tools that schedule workloads, automate infrastructure, and keep platforms resilient across regions. But what I really care about is how all of it fits together—why things fail, what abstractions leak, and how bits become behavior.
 
-Check out the links below to get in contact with me!
+These days, I still write a lot of Go, Ruby, and Python. I build CLI tooling, test frameworks, and automation pipelines that (hopefully) make systems safer to operate. On the side, I’ve been digging into Assembly, syscalls, and instruction-level behavior—because if I’m going to run distributed platforms, I want to understand what happens from silicon to SLO.
 
 ### Connect
 
