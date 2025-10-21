@@ -1,10 +1,10 @@
 ### Howdy! 👋
 
-I lead runtime infrastructure at HashiCorp, which mostly means keeping large, distributed systems from falling over — and fixing them fast when they do. Outside of the job title, I’m drawn to pulling systems apart, figuring out why they behave the way they do, and rebuilding them with a clearer picture of how the pieces fit.  
+I lead the compute provisioning team for NVIDIA's DGX Cloud partners. We build the BMaaS/VMaaS automation that turns racks of bare metal into composable AI infrastructure by deploying the full DGX software stack.
 
-I’ve spent my career building platforms that have to hold up under pressure: schedulers that move workloads at scale, automation pipelines that keep fleets running, and services designed to survive region-wide failures. What keeps me interested is tracing how the smallest details in one layer ripple up to shape the reliability of the whole stack — and how failure always seems to find the cracks we miss.  
+I’m drawn to the low-level details of how platforms are built and behave. My focus is on the automation that reliably creates these systems at scale, and how the smallest details in a provisioning layer ripple up to define the reliability of the entire stack.
 
-These days, most of my work is in Go, Ruby, and Python, building tools and frameworks that make systems safer to run. On the side, I’ve been digging into assembly and syscalls, chasing how a handful of instructions turn into the complex behavior of distributed platforms. I also like writing about engineering and leadership (especially the messy, unspoken parts) on my blog: [kseneker.substack.com](https://kseneker.substack.com)
+I work primarily in Go, Ruby, and Python. On the side, I dig into assembly and syscalls to understand how distributed platforms work from the metal up. I write about the messy parts of engineering and leadership on my blog [kseneker.substack.com](https://kseneker.substack.com)
 
 ### Connect
 
