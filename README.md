@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I lead the compute provisioning team for NVIDIA's DGX Cloud partners. We build the BMaaS/VMaaS automation that turns racks of bare metal into composable AI infrastructure by deploying the full DGX software stack.
+I lead the Compute team for NVIDIA DGX Cloud. We build the BMaaS/VMaaS automation that turns racks of bare metal into composable AI infrastructure by deploying the full DGX software stack.
 
 I’m drawn to the low-level details of how platforms are built and behave. My focus is on the automation that reliably creates these systems at scale, and how the smallest details in a provisioning layer ripple up to define the reliability of the entire stack.
 
